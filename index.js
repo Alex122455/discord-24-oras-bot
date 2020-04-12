@@ -29,7 +29,7 @@ client.on("message", async message => {
     }
   });
 
-  client.login('Njk4NTI1MTYyMTYwNjUyMjg4.XpNDHA.nqhwRtvOje152LP0DEgQfxFFnXE');
+  client.login('Njk4NTI1MTYyMTYwNjUyMjg4.XpND0g.SxatUpTq93o0mlQIX5rHVZ_gwYw');
 
   //A client.login-t soha de soha ne töröld ki hiszen ez indítja el a botod!!
   //Ha több parancsot akarsz akkor szólj mert van kick és ban parancsom
